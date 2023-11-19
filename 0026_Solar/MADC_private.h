@@ -1,0 +1,4 @@
+#ifndef MADC_PRIVATE_H
+#define MADC_PRIVATE_H
+
+#endif // MADC_PRIVATE_H
